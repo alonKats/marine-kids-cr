@@ -4,17 +4,11 @@
 
 ---
 
-## 0. Pre-meeting checklist (do these BEFORE you walk in)
+## 0. Pre-meeting checklist (do this BEFORE you walk in)
 
-Two things can quietly kill this deal if you don't resolve them first:
+**Campus confirmed: Tamarindo** — the flagship. IB Diploma Programme, MSA-CESS, and Cognia accreditation stack (IBO code 062813). The CAS pitch is fully valid — lead with it without softening. Publicly-listed science staff: **Juan Gabriel Sojo Quesada** and a colleague named Nancy. These are the IB science teachers you'd likely co-teach with, not the managers you're meeting.
 
-1. **Which campus is this actually?** Journey School is a franchise with three public campuses: Tamarindo, Jacó, Costa Ballena. **"Playa Negra" is not on their public website.** Before the meeting, confirm:
-   - Which physical location are they running?
-   - Does that campus currently hold **IB accreditation**, or is it still pursuing it (like Jacó / Costa Ballena)?
-   - If it's NOT IB-accredited yet → soften the CAS pitch. Lead with MEP biodiversity + PYP. Save CAS as "something for when you're fully accredited."
-2. **Liability coverage.** Any fieldwork with children on a beach or near water raises insurance questions. A pedagogical manager will think about this even if they don't ask. If they DO ask — you need a one-sentence answer. If you don't yet carry personal liability coverage for school fieldwork, resolve this (talk to Alon / INS) before the meeting. This is the one topic that can silently kill a deal that otherwise felt ready.
-
-If either of these isn't resolved, the rest of the prep still stands — just ask yourself whether to go in this week or buy a few days.
+**One thing to resolve first — liability coverage.** Any fieldwork with children on a beach or near water raises insurance questions. A pedagogical manager will think about this even if they don't ask. If they DO ask, you need a one-sentence answer. If you don't yet carry personal liability coverage for school fieldwork, resolve this (talk to Alon / INS) before the meeting. This is the one topic that can silently kill a deal that otherwise felt ready.
 
 ---
 
@@ -28,9 +22,8 @@ If either of these isn't resolved, the rest of the prep still stands — just as
 
 - **You contacted Journey**, not the other way around. That sets the posture: curious, prepared, proposing something — not responding to a brief.
 - **Why them:** their own mission statement — *"nurture the whole child through meaningful experiences, authentic relationships, and a deep connection to the natural world"* — is already 80% of your brief. They've built the frame; the ocean content is the empty room. **Mirror their words back.** "Connection to the natural world" and "meaningful experiences" are their phrases, not yours — use them.
-- **Attendees** — the head + pedagogical managers (IB-coordinator equivalents, if this campus has one). One is strategic, the others are practical. Answer each accordingly.
-- **"IB credits"** = CAS hours (Creativity, Activity, Service). Marine fieldwork + stewardship projects fit 5 of the 7 CAS learning outcomes directly. Strong natural entry — but let them raise it first, and only if this campus is actually IB-accredited.
-- **Their staff:** Tamarindo has two IB science teachers publicly listed — **Juan Gabriel Sojo Quesada** and a colleague named Nancy. If your campus connects to Tamarindo, these are the people you'd likely co-teach with, not the managers you're meeting.
+- **Attendees** — the head + pedagogical managers (IB-coordinator equivalents). One is strategic, the others are practical. Answer each accordingly.
+- **"IB credits"** = CAS hours (Creativity, Activity, Service). Marine fieldwork + stewardship projects fit 5 of the 7 CAS learning outcomes directly. Strong natural entry — but let them raise it first.
 
 ---
 
@@ -59,7 +52,7 @@ One-line frame if asked: *"Diseñamos una currícula anual de Ocean literacy par
 3. **"Si armamos una currícula anual de Ocean literacy, ¿cómo encajaría con su calendario IB / MEP — bloques semanales, días especiales, campamentos, o una mezcla?"**
    *(If we build an annual Ocean literacy curriculum, how would it fit your IB / MEP calendar?)* — lets them tell you the shape.
 
-4. **"¿Cómo manejan las horas CAS para IB? ¿Dónde tienen huecos?"** *(Only if this campus is IB-accredited and they open the thread first.)*
+4. **"¿Cómo manejan las horas CAS para IB? ¿Dónde tienen huecos?"** *(Let them open the thread first.)*
 
 5. **"¿Qué niveles tendrían más prioridad — los pequeños, los IB, o un programa transversal que toque todos?"**
    *(Which levels would be highest priority — young ones, IB, or a transversal program?)* — tells you where the energy is.
@@ -126,7 +119,7 @@ Keep these short. Don't volunteer them — use them if asked.
 - **"Our teachers aren't marine biologists."** → That's the design. I run the science; teachers handle continuity. By Year 2, I've trained them to facilitate ~40% independently.
 - **"We already use MarViva / PRETOMA / turtle tours."** → Excellent programs — I know them. They're episodic: a visit, a day. I offer narrative thread across a year. Different educational experience.
 - **"Can we do a trial?"** → Yes, and I'd encourage it. A semester pilot (18 sessions). Review assessment data together, decide about the full year.
-- **"Is it CAS-eligible?"** *(only if IB-accredited)* → Yes — satisfies LO2 (new skills), LO3 (student-initiated), LO5 (collaborative), LO6 (global significance), LO7 (ethics). I provide activity descriptions + reflection prompts that meet IB requirements.
+- **"Is it CAS-eligible?"** → Yes — satisfies LO2 (new skills), LO3 (student-initiated), LO5 (collaborative), LO6 (global significance), LO7 (ethics). I provide activity descriptions + reflection prompts that meet IB requirements.
 - **"How do we know you'll be here Year 2?"** → I live here. Family is rooted here. Program is designed to be renewable, and I build teacher capacity so the school keeps the framework regardless.
 
 ---
@@ -142,7 +135,7 @@ These are their real objections. Don't wait to be asked — seed the preempt int
 | **"Who handles liability?"** | *"Llevo seguro de responsabilidad personal y preparo un waiver para padres. Se los mando esta semana."* (Assumes you have coverage — resolve before the meeting if not.) |
 | **"This cost wasn't budgeted."** | *"Entiendo el ciclo presupuestario. Si no es para agosto, podemos planear un piloto de segundo semestre en enero."* Don't force a timeline. |
 | **"Parents will push back on a new fee."** | Offer a parent-communication draft they can use. Two paragraphs on what Ocean Literacy is and why it matters for CR families. Makes their job easier. |
-| **"Maybe Tamarindo campus should decide first."** | Know the accreditation status before you walk in. If it's a newer campus, lead with MEP + PYP, not CAS — don't ask a Jacó head to make an IB-level call. |
+| **"Let's pilot with just one grade band first."** | Good instinct — agree to a single-grade or single-semester pilot as the entry point, but negotiate shared learning goals across bands so the pilot scales cleanly to school-wide in Year 2. Don't let "one grade" become a ceiling. |
 
 ---
 

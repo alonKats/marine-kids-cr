@@ -42,6 +42,25 @@ One-line frame if asked: *"Diseñamos una currícula anual de Ocean literacy par
 
 ---
 
+## 3a. Slide draft — same content, deck-shaped
+
+If you build an actual slide for this section, here's the tight version. Same four tiers as Section 3, trimmed for a slide:
+
+> **How the program scales by grade level**
+>
+> Same Ocean Literacy framework, four cognitive tiers — each matches stage to a different *kind* of marine work.
+>
+> - **K–2 (PYP early):** storytelling, touch tanks, habitat models. *The ocean is alive, and I've met it.*
+> - **3–5 (PYP late):** ecosystems, beach-debris counts, water-clarity logs, vocabulary build. *The ocean is a system, and I can describe it.*
+> - **6–8 (MYP):** sophisticated ecosystem dynamics, water-quality testing, citizen-science participation. *The ocean has problems, and I can investigate them.*
+> - **9–12 (DP / CAS):** acidification, marine policy, research-question-anchored fieldwork — Las Baulas, Ostional, NOAA / PRETOMA datasets. *The ocean has answers, and I can find them.*
+>
+> Pilot enters at one tier; the framework scales to the rest in Year 2.
+
+The four bold-italic anchor sentences are what students walk away with — useful as the slide's voice-over, or as the closing line you say out loud after walking through the bullets.
+
+---
+
 ## 4. Questions to ask (pick 4–5, in this order)
 
 1. **"Cuéntenme cómo manejan actualmente la educación sobre el mar y el medio ambiente — ¿qué están haciendo, y qué sienten que falta?"**

@@ -29,13 +29,14 @@
 
 ## 3. Your vision (in your pocket, not on the table)
 
-A **year-long, school-embedded Ocean Literacy program**, piloted at Journey, aligned to IB PYP / MEP, anchored in the 7 Ocean Literacy Principles (NOAA / NMEA):
+A **year-long, school-embedded Ocean Literacy program**, piloted at Journey, aligned to IB PYP / MEP, anchored in the 7 Ocean Literacy Principles (NOAA / NMEA). Each tier matches cognitive stage to a different *kind* of marine work — concrete → conceptual → independent. Same framework end to end; what changes is *what they do with it*.
 
-- **Early grades (K–2):** habitat models, touch-based exploration, "who lives in the ocean" — hands-on, concrete.
-- **Middle grades (3–5):** ecosystems, pollution, human impact, observation-based — concrete + conceptual.
-- **Upper grades (6+ / IB):** a *research question* anchor, CAS-eligible fieldwork, stewardship projects — conceptual + independent.
+- **Early grades (K–2, PYP early):** storytelling, habitat models, touch-based exploration. Visual aids and simple analogies for marine relationships ("the reef is the city, fish are the residents"). Hands-on tide-pool encounters at Avellanas — touch a hermit crab, name it, draw it. The principle they leave with: *the ocean is alive, and I've met it.*
+- **Middle grades (3–5, PYP late):** ecosystems, pollution, human impact — concrete + conceptual. Group projects and observation logs. Introduce data collection: water-clarity readings, beach-debris counts, simple species ID. Build the working vocabulary (species, habitat, food web, microplastic). The principle: *the ocean is a system, and I can describe it.*
+- **Middle school (6–8, MYP):** sophisticated ecosystem interactions, marine biology terminology, simple water-quality testing. Group projects with a critical-thinking frame — *what would happen to Las Baulas if the leatherback population dropped 10% more?* Citizen-science participation begins here. The principle: *the ocean has problems, and I can investigate them.*
+- **Upper grades (9–12, DP / CAS):** advanced topics — ocean acidification, marine policy, conservation genetics. A *research question* anchor, CAS-eligible fieldwork, stewardship projects, real-world case studies (Las Baulas leatherbacks, Ostional arribadas). Data analysis and citizen-science contributions to NOAA Marine Debris or PRETOMA datasets. The principle: *the ocean has answers, and I can find them.*
 
-One-line frame if asked: *"Diseñamos una currícula anual de Ocean literacy para toda la escuela, piloteada con ustedes, adaptada a cada nivel, alineada con IB y MEP."*
+One-line frame if asked: *"Diseñamos una currícula anual de Ocean literacy para toda la escuela, piloteada con ustedes, adaptada a cada nivel cognitivo, alineada con IB y MEP."*
 
 **Concrete image to hold:** The olive ridley turtles are nesting at Ostional right now — 45 minutes away, during the school year. A Grade 5 unit built around a nest count is real science, not a simulation. When the conversation lulls, that image is your anchor.
 

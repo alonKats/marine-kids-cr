@@ -1,12 +1,12 @@
-# Weekly Plan — Week of Apr 19–25, 2026
+# Weekly Plan — Week of May 4–10, 2026
 
-*Sunday note. Read it once. Keep it open this week.*
+*Read once. Keep open this week.*
 
 ---
 
 ## This week's one goal
 
-**Listen well to Journey School. Come home with the real need. Don't pitch yet.**
+**Walk into Journey tomorrow morning ready. Listen well. Come home with the real need. Don't pitch yet — discover.**
 
 ---
 
@@ -14,12 +14,35 @@
 
 | Day | Focus | Time |
 |-----|-------|------|
-| Sun Apr 19 | Rest + read the welcome doc + journey-prep | 30 min, evening |
-| Mon Apr 20 | Final review of prep. Pack questions list. | 20 min |
-| Tue Apr 21 | *(Journey meeting — date TBC, confirm when)* | 1 hr |
-| Wed Apr 22 | Debrief to Max. Send the 3-line note. | 10 min |
-| Thu Apr 23 | Review draft proposal Max writes for you | 30 min |
-| Fri Apr 24 | Rest / family. No work. | — |
+| Mon May 4 | Birthday 🎂. Final review of prep + deck. Print or load on phone. | 30 min |
+| **Tue May 5** | **Journey School meeting — morning.** | 1 hr + travel |
+| Wed May 6 | Send Max the 3-line debrief (see below) | 10 min |
+| Thu May 7 | Review tailored proposal Max drafts from your debrief | 30 min |
+| Fri May 8 | Approve final wording → Max sends proposal email to Journey | 15 min |
+| Sat–Sun | Rest. Family. No work. | — |
+
+---
+
+## What you need tomorrow morning
+
+Three files on your phone or laptop. Don't bring printouts of all of them — the deck is what they see, the prep is what you read 20 min before, the PDF is what you leave behind.
+
+1. **`meetings/journey-deck-design.pdf`** — present from this. 11 slides. Open fullscreen.
+2. **`meetings/journey-prep.md`** — read sections 0, 1, 2, 3 the morning of. Q&A in section 7 is your safety net.
+3. **`Effi.pdf`** — leave this physical copy with them at the end (or email after).
+
+---
+
+## After the meeting — 3 lines to Max
+
+The only thing I need from you Wednesday morning. Send these four answers in one message:
+
+1. The **one problem** they said they can't solve with what they have today (their words, not yours).
+2. The **age band** they leaned toward — early grades, IB, or transversal.
+3. The **shape** that fits their calendar — weekly · special days · camps · transversal.
+4. The **campus + accreditation** confirmed — Tamarindo, IB DP + MSA-CESS + Cognia (verify in person).
+
+I'll draft the proposal from those four lines. Pitch goes out Friday.
 
 ---
 
@@ -27,43 +50,34 @@
 
 You don't need to do anything with these — just know they're moving.
 
-- **Pitch deck v1** — waiting on Journey meeting input before finalizing
-- **Insurance quotes** — Alon is gathering 2 options
-- **Business name decision** — 3 top candidates ready, we pick after first school contract signed
-- **Second school list** — 4 more schools in your radius, prep notes coming next week
-
----
-
-## What I need from you this week
-
-Only two things:
-
-1. **After the Journey meeting** — send me 3 lines:
-   - The one problem they said they can't solve
-   - The age group they want
-   - Program shape they lean toward (weekly / day / camp)
-
-2. **If Journey reschedules** — tell Alon the moment you know, so I can move the week around it.
+- **Tailored proposal** — drafted Wed–Thu from your debrief
+- **Insurance / liability for fieldwork** — Alon checking with INS this week (open question)
+- **Second school list** — 4 schools in Guanacaste radius, briefs ready when needed
+- **Pricing model** — annual fee per school (not per student), draft ready, finalize after Journey decides
 
 ---
 
 ## What's NOT on this week
 
-- No pricing conversations
-- No new school outreach
-- No website, no logo, no brand decisions
+- No new school outreach (one fish at a time)
+- No website / logo / brand decisions
 - No legal paperwork
-
-We do those **after** first signed contract. One thing at a time.
-
----
-
-## If you feel lost this week
-
-Message Alon one line: *"Max, I'm stuck on X."* I'll send back one action, not five.
+- No pricing conversations *in the room* — defer to written proposal
 
 ---
 
-*Next Sunday you'll get the Week of Apr 26 plan. Same format.*
+## If something shifts
 
-— Max
+- **If Journey reschedules** — tell Alon the moment you know. I'll move the week.
+- **If they want a follow-up call before the proposal** — say yes, schedule for Mon May 11.
+- **If you feel lost** — one line to Alon: *"Max, stuck on X."* I send back one action.
+
+---
+
+## Looking ahead
+
+The full multi-week view through end of June lives at **[`roadmap.md`](roadmap.md)** — read it Sunday so you know what's coming after Journey. Don't worry about it before then.
+
+---
+
+*— Max*

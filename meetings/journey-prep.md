@@ -18,6 +18,16 @@
 
 ---
 
+## 1a. Three added talking points (Effi, May 4)
+
+Three angles to surface explicitly in the room — these are now woven into Slide 2 of `journey-presentation.md`. Drop them as the *"why this fits Journey specifically"* package, not three separate points:
+
+- **Standards-aligned, integrates with the existing curriculum.** Frame as work *together*, not bolt-on. "I integrate with what you're already mandated to teach (IB PYP / MEP biodiversity), I don't ask for a new slot."
+- **Admissions / parent draw.** A school-embedded Ocean Literacy program is a visible differentiator — *"the Ocean Literacy Program in a school is an advantage and a real draw for parents."* Pair with the FEE Green Flag credential and the MSA/Cognia portfolio angle from Section 5.
+- **Career exposure starting middle school.** Most students don't know marine careers exist (boat captain, researcher, conservation officer, marine policy). The program lets them picture themselves in those futures. This is the parent-pitch line that doesn't sound like a sales pitch — it's about *the kids' future*, not the school's brand.
+
+---
+
 ## 2. Context — why you initiated
 
 - **You contacted Journey**, not the other way around. That sets the posture: curious, prepared, proposing something — not responding to a brief.
